@@ -1,0 +1,6 @@
+.breakdance .audio-control {
+    ::-webkit-media-controls-enclosure {
+        background-color: #FBF7F4;
+        width: 100%
+    }
+}
